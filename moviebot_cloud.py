@@ -1,0 +1,3 @@
+BOT_TOKEN=7804298861:AAFCJVAYm_O1eUfYsxOSl2tFEceMeUbTVHg
+SUPABASE_URL=https://awajmsyyubuqrvbrdunw.supabase.co
+SUPABASE_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...
